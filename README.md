@@ -1,4 +1,4 @@
-# Shreyan Yadav Portfolio
+# Shreyan's Portfolio
 Open `index.html` locally to preview the portfolio.
 
 ## GitHub Pages
